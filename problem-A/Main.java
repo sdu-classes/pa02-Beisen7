@@ -11,7 +11,7 @@ public class Main {
 
         Animal animal = new Animal("Januar");
 
-        System.out.println(animal.toStringAnimal());
+        System.out.println(animal.toString());
         System.out.println(dog);
         System.out.println(cat);
 
