@@ -5,7 +5,7 @@ public class Animal {
         this.name = name;
     }
 
-    public String toStringAnimal() {
+    public String toString() {
         return "Animal[" +
                 "name='" + name + '\'' +
                 ']';
